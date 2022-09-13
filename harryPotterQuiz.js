@@ -30,7 +30,7 @@ var questions = [{
 function welcome() {
   var userName = readlineSync.question("What's your name? ");
 
-  console.log("Welcome " + userName + " to HOW MUCH OF A HARRY POTTER FAN ARE YOU?");
+  console.log("Welcome " + userName + " to HOW MUCH OF A POTTERHEAD ARE YOU?");
 }
 
 function play(question, answer) {
